@@ -259,7 +259,7 @@
     "playlist_removedsong": "The song (%songname) was successfully removed from the playlist!",
     "playlist_songnotinplaylist": "This song is not in the playlist!",
     "playlist_error": "You used the command incorrectly. Please use **%prefixhelp playlist** to read the correct usage of the command!",
-    "playlist_description": "Create new music playlists on this Discord server",
+    "playlist_description": "Creates a new music playlist on this Discord server",
 
     "dailyremind_set": "You have activated the dailyremind! (If you run the %prefixdaily command, you'll be reminded 24 hours later to pick up your daily reward again)",
     "dailyremind_removed": "You have deactivated the dailyremind!",
@@ -272,13 +272,11 @@
     "setacceptedmessage_noinput": "You must enter your message that applicants receive!",
     "setacceptedmessage_set": "Message saved successfully!",
     "setacceptedmessage_description": "Sets a custom message that receive the applicants who have been accepted",
-
     "setrejectedmessage_description": "Sets a custom message that receive the applicants who have been rejected",
 
     "ticketnotification_channelset": "Ticket notifications are now posted in %channelname!",
     "ticketnotification_channeldeleted": "Ticket notifications are now no longer posted!",
     "ticketnotification_description": "Defines a channel in which ticket notifications will be sent",
-
     "mainfile_statuschange": "The status of your ticket has changed to '%status'. You can manage your ticket at this link: %link",
     "mainfile_newanswer": "There is a new answer to your ticket. You can see it under the following link: %link",
     "mainfile_ticketembedtitle": "Click on me to be forwarded directly to the ticket!",
@@ -289,7 +287,7 @@
 
     "ticket_noinput": "You forgot to enter your message to the support team!",
     "ticket_created": "Your ticket has been successfully created. We will contact you by direct message as soon as there is something new about your ticket. You can manage it at this link: %link",
-    "ticket_description": "Create a new ticket which will be forwarded to the Discord server team",
+    "ticket_description": "Creates a new ticket which will be forwarded to the Discord server team",
 
     "togglexp_noinput": "You forgot to enter a channel name!",
     "togglexp_notexist": "This channel doesn't exist!",
@@ -301,7 +299,7 @@
     "togglexp_notinthelist": "This channel isn't in the list of channels where you cannot get XP!",
     "togglexp_embed": "All text channels in which you do not get XP:",
     "togglexp_error": "You didn't use the command correctly. Please check with %prefixhelp togglexp",
-    "togglexp_description": "Add channels in which you cannot get XP",
+    "togglexp_description": "Adds channels in which you cannot get XP",
 
     "templesearch_error": "You need a flashlight to search for something in the temple!",
     "templesearch_received": "You found %amount in the temple!",
@@ -669,7 +667,7 @@
     "listevents_memberupdate": "Logs all user changes on this Discord server",
     "listevents_description": "Lists you all events that you can log on your server",
 
-    "listmodules_embed": "All active/disabled modules!",
+    "listmodules_embed": "All active/disabled modules:",
     "listmodules_activemodules": "Active modules",
     "listmodules_noactivemodules": "No modules activated",
     "listmodules_disabledmodules": "Disabled modules",
